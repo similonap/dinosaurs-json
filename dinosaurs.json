@@ -1,0 +1,192 @@
+[
+  {
+    "id": "DINO-001",
+    "name": "Tyrannosaurus Rex",
+    "description": "Often called the King of Dinosaurs, this massive therapod is one of the most recognizable predators in history, known for its massive skull and powerful jaws.",
+    "lengthMeters": 12.3,
+    "isCarnivore": true,
+    "firstDiscoveryDate": "1902-08-12",
+    "imageUrl": "https://example.com/images/dinos/t-rex.jpg",
+    "dangerLevel": "Extreme",
+    "locationsFound": ["United States", "Canada"],
+    "geologicalPeriod": {
+      "id": "PER-003",
+      "name": "Cretaceous",
+      "durationMillionYears": 79,
+      "endedMassExtinction": true,
+      "climateDescription": "Warm and humid with high sea levels and diverse flora.",
+      "periodImageUrl": "https://example.com/images/periods/cretaceous-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-002",
+    "name": "Triceratops",
+    "description": "A large herbivore distinguished by its massive frill and three horns, which were likely used for defense against predators like the T-Rex.",
+    "lengthMeters": 9.0,
+    "isCarnivore": false,
+    "firstDiscoveryDate": "1887-05-22",
+    "imageUrl": "https://example.com/images/dinos/triceratops.jpg",
+    "dangerLevel": "High",
+    "locationsFound": ["United States", "Canada"],
+    "geologicalPeriod": {
+      "id": "PER-003",
+      "name": "Cretaceous",
+      "durationMillionYears": 79,
+      "endedMassExtinction": true,
+      "climateDescription": "Warm and humid with high sea levels and diverse flora.",
+      "periodImageUrl": "https://example.com/images/periods/cretaceous-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-003",
+    "name": "Stegosaurus",
+    "description": "Easily identified by the double row of kite-shaped plates along its back and the four long spikes on its tail, known as the thagomizer.",
+    "lengthMeters": 9.0,
+    "isCarnivore": false,
+    "firstDiscoveryDate": "1877-12-04",
+    "imageUrl": "https://example.com/images/dinos/stegosaurus.jpg",
+    "dangerLevel": "Medium",
+    "locationsFound": ["United States", "Portugal"],
+    "geologicalPeriod": {
+      "id": "PER-002",
+      "name": "Jurassic",
+      "durationMillionYears": 56,
+      "endedMassExtinction": false,
+      "climateDescription": "Humid and subtropical, allowing for the growth of giant conifers and ferns.",
+      "periodImageUrl": "https://example.com/images/periods/jurassic-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-004",
+    "name": "Velociraptor",
+    "description": "A small but agile predator, possessing a deadly sickle-shaped claw on each hind foot. Unlike movie depictions, they were feathered and turkey-sized.",
+    "lengthMeters": 2.1,
+    "isCarnivore": true,
+    "firstDiscoveryDate": "1923-08-11",
+    "imageUrl": "https://example.com/images/dinos/velociraptor.jpg",
+    "dangerLevel": "High",
+    "locationsFound": ["Mongolia", "China"],
+    "geologicalPeriod": {
+      "id": "PER-003",
+      "name": "Cretaceous",
+      "durationMillionYears": 79,
+      "endedMassExtinction": true,
+      "climateDescription": "Warm and humid with high sea levels and diverse flora.",
+      "periodImageUrl": "https://example.com/images/periods/cretaceous-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-005",
+    "name": "Brachiosaurus",
+    "description": "A gigantic sauropod with longer front legs than back legs, giving it a giraffe-like stance to reach high vegetation.",
+    "lengthMeters": 26.0,
+    "isCarnivore": false,
+    "firstDiscoveryDate": "1900-07-01",
+    "imageUrl": "https://example.com/images/dinos/brachiosaurus.jpg",
+    "dangerLevel": "Low",
+    "locationsFound": ["United States", "Algeria", "Portugal"],
+    "geologicalPeriod": {
+      "id": "PER-002",
+      "name": "Jurassic",
+      "durationMillionYears": 56,
+      "endedMassExtinction": false,
+      "climateDescription": "Humid and subtropical, allowing for the growth of giant conifers and ferns.",
+      "periodImageUrl": "https://example.com/images/periods/jurassic-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-006",
+    "name": "Coelophysis",
+    "description": "One of the earliest known dinosaur genera. It was a small, lightly built, carnivorous biped that lived in the Late Triassic.",
+    "lengthMeters": 3.0,
+    "isCarnivore": true,
+    "firstDiscoveryDate": "1889-06-15",
+    "imageUrl": "https://example.com/images/dinos/coelophysis.jpg",
+    "dangerLevel": "Medium",
+    "locationsFound": ["United States", "South Africa"],
+    "geologicalPeriod": {
+      "id": "PER-001",
+      "name": "Triassic",
+      "durationMillionYears": 50,
+      "endedMassExtinction": true,
+      "climateDescription": "Hot and dry with vast deserts and seasonal monsoons.",
+      "periodImageUrl": "https://example.com/images/periods/triassic-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-007",
+    "name": "Ankylosaurus",
+    "description": "A living tank, covered in heavy armor plating and wielding a massive bone club at the end of its tail for defense.",
+    "lengthMeters": 8.0,
+    "isCarnivore": false,
+    "firstDiscoveryDate": "1908-09-02",
+    "imageUrl": "https://example.com/images/dinos/ankylosaurus.jpg",
+    "dangerLevel": "High",
+    "locationsFound": ["United States", "Canada"],
+    "geologicalPeriod": {
+      "id": "PER-003",
+      "name": "Cretaceous",
+      "durationMillionYears": 79,
+      "endedMassExtinction": true,
+      "climateDescription": "Warm and humid with high sea levels and diverse flora.",
+      "periodImageUrl": "https://example.com/images/periods/cretaceous-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-008",
+    "name": "Spinosaurus",
+    "description": "The largest carnivorous dinosaur known, easily recognized by the massive sail on its back. It was likely semi-aquatic.",
+    "lengthMeters": 15.0,
+    "isCarnivore": true,
+    "firstDiscoveryDate": "1912-04-20",
+    "imageUrl": "https://example.com/images/dinos/spinosaurus.jpg",
+    "dangerLevel": "Extreme",
+    "locationsFound": ["Egypt", "Morocco"],
+    "geologicalPeriod": {
+      "id": "PER-003",
+      "name": "Cretaceous",
+      "durationMillionYears": 79,
+      "endedMassExtinction": true,
+      "climateDescription": "Warm and humid with high sea levels and diverse flora.",
+      "periodImageUrl": "https://example.com/images/periods/cretaceous-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-009",
+    "name": "Allosaurus",
+    "description": "The apex predator of the Jurassic period. It had a massive skull but a surprisingly weak bite force, using its head like a hatchet.",
+    "lengthMeters": 8.5,
+    "isCarnivore": true,
+    "firstDiscoveryDate": "1877-11-03",
+    "imageUrl": "https://example.com/images/dinos/allosaurus.jpg",
+    "dangerLevel": "Extreme",
+    "locationsFound": ["United States", "Portugal"],
+    "geologicalPeriod": {
+      "id": "PER-002",
+      "name": "Jurassic",
+      "durationMillionYears": 56,
+      "endedMassExtinction": false,
+      "climateDescription": "Humid and subtropical, allowing for the growth of giant conifers and ferns.",
+      "periodImageUrl": "https://example.com/images/periods/jurassic-landscape.jpg"
+    }
+  },
+  {
+    "id": "DINO-010",
+    "name": "Parasaurolophus",
+    "description": "A duck-billed dinosaur famous for the long, curved crest on its head, which was used for visual display and producing loud, low-frequency sounds.",
+    "lengthMeters": 9.5,
+    "isCarnivore": false,
+    "firstDiscoveryDate": "1920-05-14",
+    "imageUrl": "https://example.com/images/dinos/parasaurolophus.jpg",
+    "dangerLevel": "Low",
+    "locationsFound": ["Canada", "United States"],
+    "geologicalPeriod": {
+      "id": "PER-003",
+      "name": "Cretaceous",
+      "durationMillionYears": 79,
+      "endedMassExtinction": true,
+      "climateDescription": "Warm and humid with high sea levels and diverse flora.",
+      "periodImageUrl": "https://example.com/images/periods/cretaceous-landscape.jpg"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "PER-001",
+    "name": "Triassic",
+    "durationMillionYears": 50,
+    "endedMassExtinction": true,
+    "climateDescription": "Hot and dry with vast deserts and seasonal monsoons.",
+    "periodImageUrl": "https://example.com/images/periods/triassic-landscape.jpg"
+  },
+  {
+    "id": "PER-002",
+    "name": "Jurassic",
+    "durationMillionYears": 56,
+    "endedMassExtinction": false,
+    "climateDescription": "Humid and subtropical, allowing for the growth of giant conifers and ferns.",
+    "periodImageUrl": "https://example.com/images/periods/jurassic-landscape.jpg"
+  },
+  {
+    "id": "PER-003",
+    "name": "Cretaceous",
+    "durationMillionYears": 79,
+    "endedMassExtinction": true,
+    "climateDescription": "Warm and humid with high sea levels and diverse flora.",
+    "periodImageUrl": "https://example.com/images/periods/cretaceous-landscape.jpg"
+  }
+]
