@@ -6,7 +6,7 @@
     "lengthMeters": 12.3,
     "isCarnivore": true,
     "firstDiscoveryDate": "1902-08-12",
-    "imageUrl": "https://example.com/images/dinos/t-rex.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/t-rex.png",
     "dangerLevel": "Extreme",
     "locationsFound": ["United States", "Canada"],
     "geologicalPeriod": {
