@@ -8,7 +8,10 @@
     "firstDiscoveryDate": "1902-08-12",
     "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/t-rex.png",
     "dangerLevel": "Extreme",
-    "locationsFound": ["United States", "Canada"],
+    "locationsFound": [
+      "United States",
+      "Canada"
+    ],
     "geologicalPeriod": {
       "id": "PER-003",
       "name": "Cretaceous",
@@ -25,9 +28,12 @@
     "lengthMeters": 9.0,
     "isCarnivore": false,
     "firstDiscoveryDate": "1887-05-22",
-    "imageUrl": "https://example.com/images/dinos/triceratops.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/triceratops.png",
     "dangerLevel": "High",
-    "locationsFound": ["United States", "Canada"],
+    "locationsFound": [
+      "United States",
+      "Canada"
+    ],
     "geologicalPeriod": {
       "id": "PER-003",
       "name": "Cretaceous",
@@ -44,9 +50,12 @@
     "lengthMeters": 9.0,
     "isCarnivore": false,
     "firstDiscoveryDate": "1877-12-04",
-    "imageUrl": "https://example.com/images/dinos/stegosaurus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/stegosaurus.png",
     "dangerLevel": "Medium",
-    "locationsFound": ["United States", "Portugal"],
+    "locationsFound": [
+      "United States",
+      "Portugal"
+    ],
     "geologicalPeriod": {
       "id": "PER-002",
       "name": "Jurassic",
@@ -63,9 +72,12 @@
     "lengthMeters": 2.1,
     "isCarnivore": true,
     "firstDiscoveryDate": "1923-08-11",
-    "imageUrl": "https://example.com/images/dinos/velociraptor.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/velociraptor.png",
     "dangerLevel": "High",
-    "locationsFound": ["Mongolia", "China"],
+    "locationsFound": [
+      "Mongolia",
+      "China"
+    ],
     "geologicalPeriod": {
       "id": "PER-003",
       "name": "Cretaceous",
@@ -82,9 +94,13 @@
     "lengthMeters": 26.0,
     "isCarnivore": false,
     "firstDiscoveryDate": "1900-07-01",
-    "imageUrl": "https://example.com/images/dinos/brachiosaurus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/brachiosaurus.png",
     "dangerLevel": "Low",
-    "locationsFound": ["United States", "Algeria", "Portugal"],
+    "locationsFound": [
+      "United States",
+      "Algeria",
+      "Portugal"
+    ],
     "geologicalPeriod": {
       "id": "PER-002",
       "name": "Jurassic",
@@ -101,9 +117,12 @@
     "lengthMeters": 3.0,
     "isCarnivore": true,
     "firstDiscoveryDate": "1889-06-15",
-    "imageUrl": "https://example.com/images/dinos/coelophysis.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/coelophysis.png",
     "dangerLevel": "Medium",
-    "locationsFound": ["United States", "South Africa"],
+    "locationsFound": [
+      "United States",
+      "South Africa"
+    ],
     "geologicalPeriod": {
       "id": "PER-001",
       "name": "Triassic",
@@ -120,9 +139,12 @@
     "lengthMeters": 8.0,
     "isCarnivore": false,
     "firstDiscoveryDate": "1908-09-02",
-    "imageUrl": "https://example.com/images/dinos/ankylosaurus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/ankylosaurus.png",
     "dangerLevel": "High",
-    "locationsFound": ["United States", "Canada"],
+    "locationsFound": [
+      "United States",
+      "Canada"
+    ],
     "geologicalPeriod": {
       "id": "PER-003",
       "name": "Cretaceous",
@@ -139,9 +161,12 @@
     "lengthMeters": 15.0,
     "isCarnivore": true,
     "firstDiscoveryDate": "1912-04-20",
-    "imageUrl": "https://example.com/images/dinos/spinosaurus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/spinosaurus.png",
     "dangerLevel": "Extreme",
-    "locationsFound": ["Egypt", "Morocco"],
+    "locationsFound": [
+      "Egypt",
+      "Morocco"
+    ],
     "geologicalPeriod": {
       "id": "PER-003",
       "name": "Cretaceous",
@@ -158,9 +183,12 @@
     "lengthMeters": 8.5,
     "isCarnivore": true,
     "firstDiscoveryDate": "1877-11-03",
-    "imageUrl": "https://example.com/images/dinos/allosaurus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/allosaurus.png",
     "dangerLevel": "Extreme",
-    "locationsFound": ["United States", "Portugal"],
+    "locationsFound": [
+      "United States",
+      "Portugal"
+    ],
     "geologicalPeriod": {
       "id": "PER-002",
       "name": "Jurassic",
@@ -177,9 +205,12 @@
     "lengthMeters": 9.5,
     "isCarnivore": false,
     "firstDiscoveryDate": "1920-05-14",
-    "imageUrl": "https://example.com/images/dinos/parasaurolophus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaurs-json/refs/heads/main/images/parasaurolophus.png",
     "dangerLevel": "Low",
-    "locationsFound": ["Canada", "United States"],
+    "locationsFound": [
+      "Canada",
+      "United States"
+    ],
     "geologicalPeriod": {
       "id": "PER-003",
       "name": "Cretaceous",
